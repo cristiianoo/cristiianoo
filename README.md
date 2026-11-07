@@ -10,10 +10,6 @@ I enjoy building projects, learning new technologies, and turning ideas into pra
 
 Check out my [personal portfolio](https://cristiianoo.github.io/).
 
-### 📌 Featured Projects
-
-*Coming soon — currently working on new projects.*
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-saraiva-231760260)
